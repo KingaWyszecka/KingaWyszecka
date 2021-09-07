@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Kinga.
+- 👀 I’m interested in programing games.
+- 🌱 I’m currently learning C++, JavaScript.
