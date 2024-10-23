@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Kinga.
 - 👀 I’m interested in programing games and drawing.
-- 🌱 I’m using mostly C++, C# and Unreal Engine.
+- 🌱 I’m using mostly C++, C# and Unity.
